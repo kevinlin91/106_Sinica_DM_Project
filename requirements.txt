@@ -1,0 +1,10 @@
+pandas
+matplotlib
+sklearn
+scipy
+numpy
+graphviz
+pydotplus
+IPython
+statsmodels
+networkx
